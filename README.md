@@ -2,6 +2,8 @@
 
 A command-line (CLI) task list application developed in Go, featuring an interactive interface and persistent storage.
 
+![demotodo](/home/me/projects/sandbox/demotodo.gif)
+
 ## 📋 Features
 
 - Add tasks
@@ -109,5 +111,4 @@ Tasks are automatically saved to a `tasks.json` file in JSON format. Example:
         "completed": true
     }
 ]
-
 
