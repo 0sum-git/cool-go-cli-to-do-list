@@ -2,7 +2,7 @@
 
 A command-line (CLI) task list application developed in Go, featuring an interactive interface and persistent storage.
 
-![demotodo](/home/me/projects/sandbox/demotodo.gif)
+![](https://github.com/rodrigofernandesribeiro/cool-go-cli-to-do-list/blob/main/demotodo.gif)
 
 ## 📋 Features
 
