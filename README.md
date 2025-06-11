@@ -43,7 +43,7 @@ A command-line (CLI) task list application developed in Go, featuring an interac
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/go-cli-todo
+   git clone https://github.com/0sum-git/go-cli-todo
    ```
 
 3. Install dependencies:
